@@ -40,4 +40,53 @@
 
 .
 
-## 
+## The Overal Trends
+
+
+
+<a href="https://github.com/hamid-rahbar/USRealEstateMarketAnalysisTableau/blob/main/P.2.Overal.Trend.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/USRealEstateMarketAnalysisTableau/blob/main/P.2.Overal.Trend.png"></a>
+
+.
+
+## Median Price Trends
+
+
+<a href="https://github.com/hamid-rahbar/USRealEstateMarketAnalysisTableau/blob/main/P.3.Price.Trend.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/USRealEstateMarketAnalysisTableau/blob/main/P.3.Price.Trend.png"></a>
+
+.
+
+### Median Price Analysis:
+
+#### 2014:
+    - Inclement weather through much of the country in Spring 2014 depressed housing sales for the entire year.
+
+#### 2015:
+    ##### Price Correction: 
+           - In late 2015, it became evident that the market was headed for a correction.
+    ##### Buyer Caution: 
+           - Six years of gradually rising prices and a mounting backlog of unsold inventory
+           - Then the self-perpetuating cycle began; more inventory continued to come onto the market while absorption slowed, feeding inventory growth even more.
+           - Because 2016 was a presidential election year, buyers were even more cautious.
+           - The removal of the SALT (state and local taxes) deduction in 2016, which significantly impacted New Yorkers who pay some of the highest state and local taxes in the country.
+
+    ##### 2018 Forecast:
+           - The median New York home price has risen 14% from the previous year to over $2,300,000.
+           
+### Inventory Supplied Trends
+
+
+<a href="https://github.com/hamid-rahbar/USRealEstateMarketAnalysisTableau/blob/main/P.4.Inventory.Trend.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/USRealEstateMarketAnalysisTableau/blob/main/P.4.Inventory.Trend.png"></a>
+
+.
+### Inventory Supplied Analysis:
+
+    #### 2015:
+        ##### Buyer Caution: 
+           - The self-perpetuating cycle began; more inventory continued to come onto the market while absorption slowed, feeding inventory growth even more.
+           - Because 2016 was a presidential election year, buyers were even more cautious.
+           - The removal of the SALT (state and local taxes) deduction in 2016, which significantly impacted New Yorkers who pay some of the highest state and local taxes in the country.
+
+    #### 2018 Forecast:
+            - Although inventory suppkied in the New York housing market fell towards the end of 2017 as compared to the previous year, it is expected to rise by 23% by the end of 2018.
+            
+            
